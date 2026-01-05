@@ -1,0 +1,42 @@
+body{
+    background-color: chocolate;
+   
+   
+    margin: 0%;
+    overflow: hidden;
+    background-image: url(contacts.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+ 
+
+}
+h1{
+    color: red;
+    margin: 0;
+    font-size: 50px;
+     font-family: 'Courier New', Courier, monospace
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: yellowgreen;
+
+}
+header{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}

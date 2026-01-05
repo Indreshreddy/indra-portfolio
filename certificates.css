@@ -1,0 +1,37 @@
+body{
+    background-color: yellow;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-image: url(certificate.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+ 
+}
+footer{
+    position: fixed;
+    bottom:0;
+    background: black;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+h1{
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+li{
+     text-align: left;
+      align-items: center;
+}
+.ab:hover{
+    color:white;
+   
+}

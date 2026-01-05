@@ -1,0 +1,47 @@
+body{
+    background-color: brown;
+    height: 100vh;
+    overflow: hidden;
+    background-image: url(skills.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+ 
+
+}
+body{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    position: fixed;
+    bottom:0;
+    background: black;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+h1{
+    color:red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+h2{
+    color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+h3{
+    color:whitesmoke;
+}
+.Skills{
+    text-align: center;
+}
+ol{
+    color:whitesmoke;
+}

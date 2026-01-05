@@ -1,0 +1,41 @@
+body{
+    background-color: orange;
+    overflow: hidden;
+     margin: 0%;
+     background-image: url(link.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+ 
+}
+h1{
+    margin: 0;
+    font-size: 50px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+header{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.ab:hover{
+    color:white;
+   
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
